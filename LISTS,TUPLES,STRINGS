@@ -1,5 +1,5 @@
 """ TUPLES AND LISTS"""
-tup1= (1,45,"Deblina", 13.30,)
+tup1= (1,45,"Dea", 13.30,)
 list1=["das",23,6.90]
 tup1=list(tup1)
 tup1[2]=56
